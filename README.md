@@ -3,7 +3,9 @@ Adafruit Python DHT Sensor Library
 
 Archivos necesarios para la instalacion de la libreria para usar el senso de Temperatura y Humedad en Raspberry Pi y script de python para hacer uso del sensor impriendo en pantalla los resultados.
 
-Al correr el script es con el comando "sudo python AdadfruitDHT.py 2302 4" siendo despues del nombre del script el modelo de sensor que usamos en mi caso un 2302 y el siguiente numero es en el GPIO que esta conectado el sensor que en mi caso es en el pin 4.
+Para instalar la libreria es con el comando "sudo python setup.py install"
+
+Al correr el script en el directorio ejemplo es con el comando "sudo python AdadfruitDHT.py 2302 4" siendo despues del nombre del script el modelo de sensor que usamos en mi caso un 2302 y el siguiente numero es en el GPIO que esta conectado el sensor que en mi caso es en el pin 4.
 
 
 
