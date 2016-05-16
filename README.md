@@ -1,5 +1,5 @@
-Adafruit Python DHT Sensor Library
-==================================
+Libreria para sensor Temp  y Humedad Adafruit Python DHT 
+===========================================================
 
 Archivos necesarios para la instalacion de la libreria para usar el senso de Temperatura y Humedad en Raspberry Pi y script de python para hacer uso del sensor impriendo en pantalla los resultados.
 
