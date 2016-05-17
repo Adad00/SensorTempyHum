@@ -3,12 +3,12 @@ Libreria para sensor Temp  y Humedad Adafruit Python DHT
 
 Archivos necesarios para la instalacion de la libreria para usar el senso de Temperatura y Humedad en Raspberry Pi y script de python para hacer uso del sensor impriendo en pantalla los resultados.
 
-Para instalar la libreria es con el comando sudo 
+Para instalar la libreria es con el comando: 
 ````
-python setup.py install
+sudo python setup.py install
 ````
 
-Al correr el script en el directorio ejemplo es con el comando
+Para correr el script en el directorio ejemplo es con el comando:
 ```` 
 sudo python AdadfruitDHT.py 2302 4
 ````
