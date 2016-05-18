@@ -10,9 +10,8 @@ sudo python setup.py install
 
 Para correr el script en el directorio ejemplo es con el comando:
 ```` 
-sudo python AdadfruitDHT.py 2302 4
+sudo python tempyhum.py 
 ````
-Siendo despues del nombre del script el modelo de sensor que usamos en mi caso un 2302 y el siguiente numero es en el GPIO que esta conectado el sensor que en mi caso es en el pin 4.
 
 
 
